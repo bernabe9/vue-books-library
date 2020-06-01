@@ -1,4 +1,4 @@
-# vue-books-library
+# Books Library
 
 ## Project setup
 ```
